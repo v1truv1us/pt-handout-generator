@@ -1,0 +1,42 @@
+{
+  "glute_bridge": {
+    "name": "Glute Bridge",
+    "source_page": "https://www.verywellfit.com/how-to-do-the-bridge-exercise-3120738",
+    "reps": "2 sets x 10 reps",
+    "selected_url": "https://www.verywellfit.com/thmb/Cxy1sCbRKwA1rqS1w36bCPlbx2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BasicBridgeExcercise_annotated-e564888866a746b8bbe02c9a9acbf3e5.jpg",
+    "alt_text": "Basic Bridge Exercise",
+    "local_path": "build/images/glute_bridge.jpg"
+  },
+  "clamshell": {
+    "name": "Clamshell",
+    "source_page": "https://invigorhealth.com.au/exercise/clamshell/",
+    "reps": "2 sets x 10 each side",
+    "selected_url": "https://invigorhealth.com.au/wp-content/uploads/2026/01/Clamshell-Exercise-InvigorHealth-.jpg",
+    "alt_text": "Clamshell Exercise - InvigorHealth",
+    "local_path": "build/images/clamshell.jpg"
+  },
+  "standing_hip_abduction": {
+    "name": "Standing Hip Abduction",
+    "source_page": "https://fitnessvolt.com/standing-hip-abduction-guide/",
+    "reps": "2 sets x 10 each side",
+    "selected_url": "https://fitnessvolt.com/wp-content/uploads/2023/11/Standing-Hip-Abduction-Step-One-750x526.jpg",
+    "alt_text": "Standing Hip Abduction Step One",
+    "local_path": "build/images/standing_hip_abduction.jpg"
+  },
+  "chair_hip_hinge": {
+    "name": "Chair Hip Hinge",
+    "source_page": "https://www.verywellfit.com/how-to-do-a-hip-hinge-4685934",
+    "reps": "2 sets x 10 reps",
+    "selected_url": "https://www.verywellfit.com/thmb/798cpNpzNRzzGXXpkHgRyZA9los=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/72-4685934-Hip-HIngeGIF-fff71992ac4c4ce8bff057948a4909cf.gif",
+    "alt_text": "Hip Hinge Exercise",
+    "local_path": "build/images/chair_hip_hinge.gif"
+  },
+  "single_leg_balance": {
+    "name": "Single-Leg Balance",
+    "source_page": "https://www.verywellfit.com/single-leg-stance-exercise-for-better-balance-2696233",
+    "reps": "Hold 10-30 sec, 3 each leg",
+    "selected_url": "https://www.verywellfit.com/thmb/6p_HNt4ujuHov09eYk4jpX8fS4c=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/Web_1500-Verywell-25-2696611-BallBridgeFlexion02-1829-68d029457b084b29970b6b73f7efba96.jpeg",
+    "alt_text": "Balance Exercise",
+    "local_path": "build/images/single_leg_balance.jpeg"
+  }
+}
